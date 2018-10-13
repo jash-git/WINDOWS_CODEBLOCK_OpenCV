@@ -1,0 +1,14 @@
+安裝CodeBlock
+增加環境變數 C:\Program Files (x86)\CodeBlocks\MinGW\bin
+安裝OPENCV
+安裝CMAKE
+在桌面建立Build資料夾
+使用CMAKE產生Build的內容(CMAKE OPENCV)
+在Build資料夾內[shift+滑鼠右鍵]開啟命令提示字元
+在命令提示字元下達mingw32-make(進行OPENCV編譯)
+-----
+把桌面上的Build資料夾 CP到 C槽下並改成opencv_build
+增加環境變數 C:\opencv_build\bin
+開啟CodeBlock->Settings->Compiler->Linker Settings把所有C:\opencv_build\lib內的檔案加入
+開啟CodeBlock->Settings->Compiler->Search directories[Compiler]新增C:\opencv_build\include和C:\opencv_build\include\opencv
+開啟CodeBlock->Settings->Compiler->Search directories[Linker]新增C:\opencv_build\lib
