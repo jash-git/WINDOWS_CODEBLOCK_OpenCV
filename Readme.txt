@@ -1,4 +1,5 @@
 ﻿WINDOWS CodeBlocks OpenCV環境架設和基本實作
+新下載:2.4.9版並再次做編譯檔-為了內建類神經網路函示庫
 測試範例:
 	codeblocks_opencv_test
 教學文件:

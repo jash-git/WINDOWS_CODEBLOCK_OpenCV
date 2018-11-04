@@ -1,0 +1,2 @@
+https://nchc.dl.sourceforge.net/project/opencvlibrary/opencv-unix/2.4.9/opencv-2.4.9.zip
+https://nchc.dl.sourceforge.net/project/opencvlibrary/opencv-win/2.4.9/opencv-2.4.9.exe
